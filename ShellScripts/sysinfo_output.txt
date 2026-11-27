@@ -1,0 +1,26 @@
+========================================
+       SYSTEM INFORMATION REPORT
+========================================
+Name: Lakshay Saini
+Roll Number: Not provided
+Date: Fri Nov 27 13:17:07 UTC 2026
+
+----- CPU INFORMATION -----
+CPU(s):                                  16
+Model name:                              AMD Ryzen 7 5800HS with Radeon Graphics
+Core(s) per socket:                      8
+Socket(s):                               1
+
+----- MEMORY INFORMATION -----
+Total Memory: 7.5Gi
+Used Memory: 631Mi
+
+----- TOP 3 CPU PROCESSES -----
+    PID COMMAND         %CPU
+      1 systemd          0.0
+      2 init-systemd(Ub  0.0
+      6 init             0.0
+
+========================================
+Report generated successfully.
+========================================
