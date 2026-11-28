@@ -32,57 +32,33 @@ Python and professional development.
 
 [API Documentation](API/)
 
-### 4. Developer Portfolio and Career Roadmap
+## 4. Developer Portfolio and Career Roadmap
 
 - Technical resume
-- Semester-wise learning roadmap
-- Professional profiles
-- Portfolio website
+- Semester-wise AI and ML learning roadmap
+- Professional GitHub profile
+- LinkedIn profile
+- Personal portfolio website deployed using GitHub Pages
 
-Status: In progress
+### Portfolio Documents
 
-## Technologies Used
+- [Technical Resume](Portfolio/resume.pdf)
+- [AI/ML Learning Roadmap](Portfolio/learning_roadmap.md)
 
-- Ubuntu Linux
-- Bash
-- Python
-- Git and GitHub
-- REST API
-- JSON
-- curl and jq
-- Markdown
+### Professional Profiles
 
-## Project Screenshots
+- [GitHub Profile](https://github.com/lakshayyfr)
+- [LinkedIn Profile](https://www.linkedin.com/in/lakshay-saini-8b9a22438/)
+- [Live Portfolio Website](https://lakshayyfr.github.io/DeveloperPortfolio/index.html)
 
-### Linux
+### Screenshot Evidence
 
-- [CPU Information](Screenshots/cpu_info.png)
-- [RAM Information](Screenshots/ram_info.png)
-- [OS and Kernel](Screenshots/os_kernel_storage.png)
-- [Physical Storage](Screenshots/physical_storage.png)
-- [Linux Commands](Screenshots/linux_commands.png)
+- [GitHub Profile](Screenshots/github_profile.png)
+- [LinkedIn Profile](Screenshots/linkedin_profile.png)
+- [Portfolio Website](Screenshots/portfolio_website.png)
+- [GitHub Pages Deployment](Screenshots/github_pages.png)
 
-### Shell Scripting
+## Conclusion
 
-- [System Report](Screenshots/sysinfo_demo.png)
-- [Backup Demonstration](Screenshots/backup_demo.png)
-
-### API Interaction
-
-- [GitHub API](Screenshots/github_api.png)
-- [Sample Posts](Screenshots/sample_posts.png)
-- [HTTP Status](Screenshots/http_status.png)
-- [Python API Demo](Screenshots/python_api_demo.png)
-- [Git History](Screenshots/git_history.png)
-
-## Professional Profiles
-
-- [GitHub](https://github.com/lakshayyfr)
-- LinkedIn: To be added
-
-## Objective
-
-The objective of this project is to develop practical
-foundational skills and understand the basic tools used
-in modern software development.
+This capstone demonstrates foundational knowledge of Linux, Bash scripting, Git, GitHub, REST APIs, Python, web development and professional portfolio development.
 
